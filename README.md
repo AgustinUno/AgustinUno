@@ -29,7 +29,7 @@
 
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AgustinUno&theme=github_dark" alt="GitHub Profile Summary Cards">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AgustinUno&theme=github_dark" alt="GitHub Profile Summary Cards" style="width: 100%;">
 </p>
 
 
