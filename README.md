@@ -41,7 +41,7 @@
 
 <div style="display: flex; justify-content: space-between;">
     
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anuraghazra&hide_title=true&hide_border=false&radius=10&theme=github-compact" alt="GitHub Profile Summary Cards" style="width: 100%;">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anuraghazra&hide_title=true&hide_border=false&radius=10&theme=github-compact&point=FFA500" alt="GitHub Profile Summary Cards" style="width: 100%;">
 
   <p align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
