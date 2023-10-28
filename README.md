@@ -45,10 +45,10 @@
 
   <p align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=187 align="center" src="https://github-readme-stats.vercel.app/api?username=AgustinUno&hide_title=true&&theme=transparent&rank_icon=github&ring_color=FFA500&include_all_commits=true" />
+  <img height=189 align="center" src="https://github-readme-stats.vercel.app/api?username=AgustinUno&hide_title=true&&theme=transparent&rank_icon=github&ring_color=FFA500&include_all_commits=true" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=187 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=AgustinUno&layout=compact&langs_count=8&card_width=320&theme=transparent&size_weight=0&count_weight=1" />
+  <img height=189 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=AgustinUno&layout=compact&langs_count=8&card_width=320&theme=transparent&size_weight=0&count_weight=1" />
 </a>
 </p>
 </div>
