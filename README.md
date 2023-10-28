@@ -10,18 +10,19 @@
         <li>⚡ Hoping and aiming to be a Software Engineer.</li>
     </ul>
 </div>
-
-<p align="center">
+<div align="center">
   <a href="https://linkedin.com/in/pedro-sales-muniz" target="_blank">
-    <img src="LinkedIn_icon.png" style="height: auto; max-width: 50px;" alt="LinkedIn">
+    <img src="LinkedIn_icon.png" alt="LinkedIn" style="height: auto; max-width: 70px;">
   </a>
+  
   <a href="https://linkedin.com/in/pedro-sales-muniz" target="_blank">
-    <img src="Mail_icon.png" style="height: auto; max-width: 50px;" alt="Mail">
+    <img src="Mail_icon.png" alt="Mail" style="height: auto; max-width: 70px;">
   </a>
+  
   <a href="https://linkedin.com/in/pedro-sales-muniz" target="_blank">
-    <img src="Port_icon.png" style="height: auto; max-width: 50px;" alt="Portfolio">
+    <img src="Port_icon.png" alt="Portfolio" style="height: auto; max-width: 70px;">
   </a>
-</p>
+</div>
 
  <hr/>
 
