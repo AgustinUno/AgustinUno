@@ -11,20 +11,23 @@
     </ul>
 </div>
 
+<div style="display: flex; justify-content: center;">
   <a href="https://linkedin.com/in/pedro-sales-muniz" target="_blank">
-    <img src="LinkedIn_icon.png" style="height: 45px;"/>
+    <img src="LinkedIn_icon.png" style="height: auto; max-width: 100px;"/>
   </a>
     
   <a href="https://linkedin.com/in/pedro-sales-muniz" target="_blank">
-    <img src="Mail_icon.png" style="height: 45px;"/>
+    <img src="Mail_icon.png" style="height: auto; max-width: 100px;"/>
   </a>
   
   <a href="https://linkedin.com/in/pedro-sales-muniz" target="_blank">
-    <img src="Port_icon.png" style="height: 45px;"/>
+    <img src="Port_icon.png" style="height: auto; max-width: 100px;"/>
   </a>
 </div>
 
+
  <hr/>
+
 
 
 
