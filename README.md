@@ -41,7 +41,7 @@
 
 <div style="display: flex; justify-content: space-between;">
     
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AgustinUno&theme=github_dark" alt="GitHub Profile Summary Cards" style="width: 100%;">
+  <img src="https://github-readme-stats.vercel.app/api?username=AgustinUno&show_icons=true&theme=transparent&hide_title=true&rank_icon=github&line_height=25&include_all_commits=true&text_bold=false&custom_title=Statistics" alt="GitHub Profile Summary Cards" style="width: 100%;">
 </div>
 
 
