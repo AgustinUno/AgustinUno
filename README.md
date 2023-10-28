@@ -29,9 +29,16 @@
  
 
 
-<p align="center">
+
+
+<div style="display: flex; justify-content: space-between;">
+    
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AgustinUno&theme=github_dark" alt="GitHub Profile Summary Cards" style="width: 100%;">
-</p>
+
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=AgustinUno&theme=github_dark" alt="GitHub Profile Summary Cards" style="width: 480px;">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AgustinUno&theme=github_dark" alt="GitHub Profile Summary Cards" style="width: 526px; ">
+</div>
+
 
 
 
