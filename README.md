@@ -12,7 +12,7 @@
 </div>
 <div align="center">
   <a href="https://linkedin.com/in/pedro-sales-muniz" target="_blank">
-    <img src="LinkedIn_icon.png" alt="LinkedIn" style="height: auto; max-width: 30px;">
+    <img src="LinkedIn_icon.png" alt="LinkedIn" style="height: auto; max-width: 30px; max-height: 10px;">
   </a>
   
   <a href="https://linkedin.com/in/pedro-sales-muniz" target="_blank">
