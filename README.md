@@ -12,15 +12,15 @@
 </div>
 <div align="center">
   <a href="https://linkedin.com/in/pedro-sales-muniz" target="_blank">
-    <img src="LinkedIn_icon.png" style="height: 50px;  ">
+    <img src="LinkedIn_icon.png" style="height: 40px;  ">
   </a>
   
   <a href="https://linkedin.com/in/pedro-sales-muniz" target="_blank">
-    <img src="Mail_icon.png" alt="Mail" style="height: 50px;; max-width: 30px;">
+    <img src="Mail_icon.png" alt="Mail" style="height: 40px;; max-width: 30px;">
   </a>
   
   <a href="https://linkedin.com/in/pedro-sales-muniz" target="_blank">
-    <img src="Port_icon.png" alt="Portfolio" style="height: 50px; max-width: 30px;">
+    <img src="Port_icon.png" alt="Portfolio" style="height: 40px; max-width: 30px;">
   </a>
 </div>
 
