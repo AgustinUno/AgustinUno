@@ -28,6 +28,14 @@
  <hr/>
  
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,c,vim,ae,blender,java,ps" style="margin-right: 10px;" />
+   
+      
+   
+  </a>
+</p>
 
 
 
@@ -36,16 +44,7 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AgustinUno&theme=github_dark" alt="GitHub Profile Summary Cards" style="width: 100%;">
 </div>
 
-<div style="display: flex;">
-  <div style="flex: 1; margin-right: 10px;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AgustinUno&theme=github_dark" alt="GitHub Profile Summary Cards" style="width: 400px;">
-  </div>
-  <div style="flex: 1;">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=AgustinUno&theme=github_dark" alt="GitHub Profile Summary Cards" style="width: 400px;">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=AgustinUno&theme=github_dark" alt="GitHub Profile Summary Cards" style="width: 500px;">
 
-  </div>
-</div>
 
 
 
