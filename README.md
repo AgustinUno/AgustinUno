@@ -11,17 +11,16 @@
     </ul>
 </div>
 
-<div align="center"> 
-  <a href="mailto:pedro.sales.muniz@gmail.com">
-    <img src="icons8-gmail-96.png" height="50" />
+  <a href="https://linkedin.com/in/pedro-sales-muniz" target="_blank">
+    <img src="LinkedIn_icon.png" style="height: 45px;"/>
   </a>
     
   <a href="https://linkedin.com/in/pedro-sales-muniz" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+    <img src="Mail_icon.png" style="height: 45px;"/>
   </a>
   
-  <a href="https://salesp07.github.io" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+  <a href="https://linkedin.com/in/pedro-sales-muniz" target="_blank">
+    <img src="Port_icon.png" style="height: 45px;"/>
   </a>
 </div>
 
