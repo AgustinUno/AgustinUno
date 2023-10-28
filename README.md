@@ -1,3 +1,6 @@
+
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=AgustinUno.AgustinUno" />
+
 ### Hi there 👋
 - 🔭 I’m currently working on my Bachelor of Science in Information Technology Degree.
 - 🌱 I’m currently learning COBOL, Arch Linux, and Bashing.
