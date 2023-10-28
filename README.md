@@ -13,15 +13,15 @@
 </div>
 <div align="center">
   <a href="https://www.linkedin.com/in/justine-lloyd-bautista-666432228" target="_blank">
-    <img src="LinkedIn_icon.png" style="width: 33%;  ">
+    <img src="LinkedIn_icon.png" style="width: 32%;  ">
   </a>
   
   <a href="mailto:justinelloydgbautista@gmail.com" target="_blank">
-    <img src="Mail_icon.png" alt="Mail" style="width: 33%;">
+    <img src="Mail_icon.png" alt="Mail" style="width: 32%;">
   </a>
   
   <a href="www.google.com" target="_blank">
-    <img src="Port_icon.png" alt="Portfolio" style="width: 33%;">
+    <img src="Port_icon.png" alt="Portfolio" style="width: 32%;">
   </a>
 </div>
 
