@@ -15,7 +15,7 @@
     <img src="LinkedIn_icon.png" style="height: 40px;  ">
   </a>
   
-  <a href="justinelloydgbautista@gmail.com" target="_blank">
+  <a href="mailto:justinelloydgbautista@gmail.com" target="_blank">
     <img src="Mail_icon.png" alt="Mail" style="height: 40px;; max-width: 30px;">
   </a>
   
