@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+- 🔭 I’m currently working in my Bachelor of Science in Information Technology Degree.
+- 🌱 I’m currently learning COBOL, Arch Linux, and Bashing.
+- ⚡ Hoping and aiming to be a Software Engineer.
 <!--
 **AgustinUno/AgustinUno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
