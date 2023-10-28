@@ -42,13 +42,15 @@
 <div style="display: flex; justify-content: space-between;">
     
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AgustinUno&hide_title=true&hide_border=false&radius=10&theme=github-compact" alt="GitHub Profile Summary Cards" style="width: 100%;">
+
   
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=AgustinUno&show_icons=true&theme=transparent&hide_title=true&rank_icon=github&line_height=25&include_all_commits=true&text_bold=false&custom_title=Statistics" />
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320" />
 </a>
+
 </div>
 
 
