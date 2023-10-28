@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently working in my Bachelor of Science in Information Technology Degree.
+- 🔭 I’m currently working on my Bachelor of Science in Information Technology Degree.
 - 🌱 I’m currently learning COBOL, Arch Linux, and Bashing.
 - ⚡ Hoping and aiming to be a Software Engineer.
 <!--
