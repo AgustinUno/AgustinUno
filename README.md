@@ -44,7 +44,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=anuraghazra&hide_title=true&hide_border=false&radius=10&theme=github-compact&point=FFA500" alt="GitHub Profile Summary Cards" style="width: 100%;">
 
   <p align="center">
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/AgustinUno/github-readme-stats">
   <img height=190.5 align="center" src="https://github-readme-stats.vercel.app/api?username=AgustinUno&hide_title=true&&theme=transparent&rank_icon=github&ring_color=FFA500&include_all_commits=true" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
