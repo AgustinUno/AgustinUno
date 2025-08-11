@@ -7,7 +7,7 @@
     <h3>An aspiring software developer from Philippines 🇵🇭</h3>
     <ul>
         <li>🔭 I’m currently working on my Bachelor of Science in Information Technology Degree.</li>
-        <li>🌱 I’m currently learning AWS, Arch Linux, and Laravel.</li>
+        <li>🌱 I’m currently learning AWS, Linux, and laTex.</li>
         <li>⚡ Hoping and aiming to be a Software Engineer.</li>
     </ul>
 </div>
