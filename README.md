@@ -16,7 +16,7 @@
     <img src="LinkedIn_icon.png" style="width: 32%;  ">
   </a>
   
-  <a href="mailto:justinelloydgbautista@gmail.com" target="_blank">
+  <a href="mailto:justinelloydgbautista.pupsj@gmail.com" target="_blank">
     <img src="Mail_icon.png" alt="Mail" style="width: 32%;">
   </a>
   
