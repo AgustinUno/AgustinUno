@@ -6,7 +6,7 @@
   [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:justinelloydgbautista.pupsj@gmail.com)
   [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://your-portfolio-url.com)
 
-  <img src="https://komarev.com/ghpvc/?username=AgustinUno1212&color=0077B5&style=flat-square" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=AgustinUno&color=0077B5&style=flat-square" alt="Profile views" />
 </div>
 
 ## About Me
@@ -34,8 +34,12 @@ I'm a Bachelor of Science in Information Technology student passionate about bui
 ## GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AgustinUno1212&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AgustinUno1212&layout=compact&theme=github_dark&hide_border=true" height="150" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AgustinUno&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="170" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AgustinUno&layout=compact&theme=github_dark&hide_border=true" height="170" alt="Top Languages" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AgustinUno&theme=github-dark&hide_border=true" height="170" alt="GitHub Streak" />
 </div>
 
 ## Featured Projects
