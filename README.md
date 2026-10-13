@@ -1,47 +1,80 @@
 <div align="center">
-  <h1>Hi, I'm Justine Bautista 👋</h1>
-  <p>Aspiring Software Engineer • BSIT Student • Based in the Philippines 🇵🇭</p>
 
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/justine-lloyd-bautista-666432228)
-  [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:justinelloydgbautista.pupsj@gmail.com)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://your-portfolio-url.com)
+<img src="assets/header-banner.svg" width="100%" alt="Justine Lloyd Bautista — Software Developer and UI/UX & Visual Designer, Philippines. Thoughtful interfaces. Reliable systems. Practical impact." />
 
-  <img src="https://komarev.com/ghpvc/?username=AgustinUno&color=0077B5&style=flat-square" alt="Profile views" />
+<p>
+  <a href="https://www.linkedin.com/in/justine-lloyd-bautista-666432228"><img src="https://img.shields.io/badge/LinkedIn-Connect-2563EB?style=flat-square" alt="Connect on LinkedIn" /></a>
+  &nbsp;
+  <a href="mailto:justinelloydgbautista.pupsj@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20hello-2563EB?style=flat-square" alt="Email Justine" /></a>
+  &nbsp;
+  <a href="https://www.behance.net/lloydbautista"><img src="https://img.shields.io/badge/Behance-Design%20work-2563EB?style=flat-square&logo=behance&logoColor=white" alt="View design work on Behance" /></a>
+  &nbsp;
+  <a href="https://github.com/AgustinUno?tab=repositories"><img src="https://img.shields.io/badge/GitHub-Repositories-2563EB?style=flat-square&logo=github&logoColor=white" alt="Explore GitHub repositories" /></a>
+</p>
+
 </div>
 
-## About Me
+---
 
-I'm a Bachelor of Science in Information Technology student passionate about building clean, practical software. I'm working toward becoming a Software Engineer and enjoy solving real problems through code.
+## About me
 
-- 🎓 Currently completing my **BSIT** degree
-- 🌱 Learning **AWS**, **Linux**, **LaTeX**, and **Full-Stack Development**
-- 💡 Focused on writing readable, maintainable code
-- 🚀 Always looking to build things that solve problems
+I'm a software developer with a background in visual design. I build full-stack applications with attention to usability, maintainable code, and data integrity—from university document workflows to internal healthcare tools.
 
-## Tech Stack
+I graduated **Magna Cum Laude** in Information Technology from **PUP San Juan** in September 2026, ranked **1st among IT graduates**. My work combines React and Tailwind interfaces, PHP/Laravel and ASP.NET Core development, and UI/UX design.
 
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Vim](https://img.shields.io/badge/Vim-019733?style=flat-square&logo=vim&logoColor=white)
+## Experience highlights
 
-## GitHub Stats
+- **Software development · Eurolink Network International Corporation:** Built internal tools during my 2026 internship, including a claims XML cleaning tool handling 50,000+ rows per run and an interface for collaborative notes using Tiptap, Yjs, and SignalR.
+- **University systems · PUP San Juan:** Provided full-stack development and technical support for digital accreditation workflows in coordination with the Quality Assurance Office.
+- **Design & leadership:** Led communications and creatives for GLITCH and created branding, campaign graphics, and print materials for student organizations and freelance clients.
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AgustinUno&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="170" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AgustinUno&layout=compact&theme=github_dark&hide_border=true" height="170" alt="Top Languages" />
-</div>
+## Selected projects
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AgustinUno&theme=github-dark&hide_border=true" height="170" alt="GitHub Streak" />
-</div>
+| Project | Overview |
+| :--- | :--- |
+| **PUPSJ-CON · Accreditation Management System** | Led a five-member team as project manager, developer, and lead UI/UX designer. Built accreditation workflows with Laravel, PostgreSQL, and Tailwind CSS, including role-based access, search, and document management. |
+| **Healthcare data & collaboration tools** | Internship work on claims data validation and a real-time collaborative notes interface. Focused on large datasets, browser performance, and functional testing. |
+| [Vaccine Management System](https://github.com/AgustinUno/vaccine-management-system-2021) | Vaccine tracking project using Java, PHP, and MySQL. |
+| [Visual design portfolio](https://www.behance.net/lloydbautista) | Explore my branding and visual design work on Behance. |
 
-## Featured Projects
+[Explore all repositories →](https://github.com/AgustinUno?tab=repositories)
 
-**Coming soon.** Pin your best repositories here to showcase them!
+## Technologies
+
+**Application development**
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts,js,php,java,react,tailwind,laravel,dotnet&theme=dark&perline=4" />
+  <img src="https://skillicons.dev/icons?i=ts,js,php,java,react,tailwind,laravel,dotnet&theme=light&perline=4" alt="TypeScript, JavaScript, PHP, Java, React, Tailwind CSS, Laravel, and .NET" />
+</picture>
+
+**Data & development tools**
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=postgres,mysql,git,docker,linux&theme=dark&perline=5" />
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,git,docker,linux&theme=light&perline=5" alt="PostgreSQL, MySQL, Git, Docker, and Linux" />
+</picture>
+
+**Design:** Figma · Photoshop · Illustrator · Affinity · Wireframing · Brand identity
+
+**Quality:** Manual & exploratory testing · REST/API validation · XML/JSON processing · Data integrity checks
+
+## GitHub activity
+
+[View my contributions and repositories on GitHub →](https://github.com/AgustinUno)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=AgustinUno&show_icons=true&hide_border=true&theme=github_dark&hide_rank=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AgustinUno&show_icons=true&hide_border=true&theme=default&hide_rank=true" alt="Justine's public GitHub repository statistics" />
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=AgustinUno&layout=compact&hide_border=true&theme=github_dark" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AgustinUno&layout=compact&hide_border=true&theme=default" alt="Language distribution across public repositories" />
+</picture>
+
+<sub>Cards use a shared external service and may be temporarily unavailable. Language distribution reflects repository code, rather than proficiency.</sub>
+
+---
+
+Have a project or an idea to discuss? [Get in touch →](mailto:justinelloydgbautista.pupsj@gmail.com)

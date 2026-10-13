@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="500" viewBox="0 0 1600 500" role="img" aria-labelledby="title desc">
+  <title id="title">Justine Lloyd Bautista</title>
+  <desc id="desc">Placeholder landscape header for a software developer and UI/UX and visual designer in the Philippines.</desc>
+  <rect width="1600" height="500" rx="24" fill="#101827"/>
+  <path d="M1150 0H1600V500H1000Z" fill="#16233b"/>
+  <circle cx="1420" cy="245" r="165" fill="none" stroke="#2563eb" stroke-width="2"/>
+  <circle cx="1420" cy="245" r="120" fill="none" stroke="#334b70" stroke-width="2"/>
+  <path d="M1240 245H1600M1420 65V425" stroke="#334b70" stroke-width="2"/>
+  <rect x="80" y="95" width="64" height="6" rx="3" fill="#60a5fa"/>
+  <g font-family="Arial, Helvetica, sans-serif">
+    <text x="80" y="205" font-size="70" font-weight="700" fill="#f8fafc">Justine Lloyd Bautista</text>
+    <text x="84" y="272" font-size="30" fill="#bfdbfe">Software Developer · UI/UX &amp; Visual Designer</text>
+    <text x="84" y="337" font-size="26" fill="#cbd5e1">Thoughtful interfaces. Reliable systems. Practical impact.</text>
+    <text x="84" y="424" font-size="20" letter-spacing="3" fill="#94a3b8">PHILIPPINES</text>
+  </g>
+</svg>
