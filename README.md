@@ -12,7 +12,7 @@
   <a href="mailto:justinelloydgbautista.pupsj@gmail.com"><img src="https://img.shields.io/badge/EMAIL-GET%20IN%20TOUCH-2563EB?style=flat-square&logo=gmail&logoColor=white" alt="Email Justine" /></a>
 </p>
 
-<p><sub><b>9+ years</b> visual design &nbsp;·&nbsp; <b>50,000+ rows</b> per run &nbsp;·&nbsp; <b>2,000+ healthcare units</b> served</sub></p>
+<p><sub><b>9+ years</b> in visual design &nbsp;·&nbsp; <b>50,000+ rows</b> per run &nbsp;·&nbsp; <b>2,000+ healthcare units</b> served</sub></p>
 
 </div>
 
@@ -22,7 +22,7 @@
 
 ### `01` · EXPERIENCE
 
-**Eurolink Network International Corp.** <sub>· Software Developer · 2026</sub>
+**Eurolink Network International Corp.** · Software Developer · 2026
 
 <kbd>Internal MIS</kbd> <kbd>NDA</kbd>
 
@@ -30,13 +30,13 @@
 - **Claims XML Data Engine:** a web-native validation tool processing 50,000+ rows per run; resolved a Chromium memory overflow via binary-level optimization and browser thread management for zero-lag financial accuracy.
 - **Real-Time Collaborative Notes:** a Notion-style multi-user interface built with Tiptap, Yjs, and SignalR, with RBAC and live caret tracking.
 
-**PUP San Juan · QA Office** <sub>· Full-Stack Developer · 2023–2026</sub>
+**PUP San Juan · QA Office** · Full-Stack Developer · 2023–2026
 
 <kbd>University Systems</kbd>
 
 - Led full-stack development, UI/UX architecture, and technical support for digital accreditation workflows, streamlining document evaluation cycles across the university.
 
-**GLITCH &amp; Student Council** <sub>· VP for Comms &amp; Lead Designer · 2022–Present</sub>
+**GLITCH &amp; Student Council** · VP for Comms &amp; Lead Designer · 2022–Present
 
 <kbd>Leadership</kbd> <kbd>Brand</kbd>
 
@@ -86,26 +86,32 @@ Desktop and backend vaccination tracking platform built to resolve scheduling an
 
 ### `03` · STACK & TOOLING
 
-**APPLICATION DEVELOPMENT**
+<p align="center"><b>APPLICATION DEVELOPMENT</b></p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts,js,php,java,react,tailwind,laravel,dotnet&theme=dark&perline=4" />
-  <img src="https://skillicons.dev/icons?i=ts,js,php,java,react,tailwind,laravel,dotnet&theme=light&perline=4" alt="TypeScript, JavaScript, PHP, Java, React, Tailwind CSS, Laravel, and .NET" />
-</picture>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts,js,php,java,react,tailwind,laravel,dotnet&theme=dark&perline=4" />
+    <img src="https://skillicons.dev/icons?i=ts,js,php,java,react,tailwind,laravel,dotnet&theme=light&perline=4" alt="TypeScript, JavaScript, PHP, Java, React, Tailwind CSS, Laravel, and .NET" />
+  </picture>
+</p>
 
-**DATA & INFRASTRUCTURE**
+<p align="center"><b>DATA &amp; INFRASTRUCTURE</b></p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=postgres,mysql,git,docker,linux,debian&theme=dark&perline=3" />
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,git,docker,linux,debian&theme=light&perline=3" alt="PostgreSQL, MySQL, Git, Docker, Linux, and Debian" />
-</picture>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=postgres,mysql,git,docker,linux,debian&theme=dark&perline=6" />
+    <img src="https://skillicons.dev/icons?i=postgres,mysql,git,docker,linux,debian&theme=light&perline=6" alt="PostgreSQL, MySQL, Git, Docker, Linux, and Debian" />
+  </picture>
+</p>
 
-**DESIGN & PROTOTYPING**
+<p align="center"><b>DESIGN &amp; PROTOTYPING</b></p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=figma,ps,ai,ae,blender&theme=dark&perline=3" />
-  <img src="https://skillicons.dev/icons?i=figma,ps,ai,ae,blender&theme=light&perline=3" alt="Figma, Photoshop, Illustrator, After Effects, and Blender" />
-</picture>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=figma,ps,ai,ae,blender&theme=dark&perline=5" />
+    <img src="https://skillicons.dev/icons?i=figma,ps,ai,ae,blender&theme=light&perline=5" alt="Figma, Photoshop, Illustrator, After Effects, and Blender" />
+  </picture>
+</p>
 
 ---
 
