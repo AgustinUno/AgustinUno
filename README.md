@@ -20,6 +20,12 @@
 
 ---
 
+### GitCity Skyline · Gitskin Theme
+
+<a href="https://gitcity.natrajx.in/AgustinUno?theme=gitskin">
+  <img src="https://gitcity.natrajx.in/api/svg?u=AgustinUno&theme=gitskin" alt="AgustinUno GitCity Skyline — Gitskin theme" width="100%" />
+</a>
+
 ### `01` · EXPERIENCE
 
 **Eurolink Network International Corp.** · Software Developer · 2026
@@ -157,4 +163,3 @@ Desktop and backend vaccination tracking platform built to resolve scheduling an
 </div>
 #   p u s h   f o r    
  
-<!-- pushed: 2026-10-28 -->
