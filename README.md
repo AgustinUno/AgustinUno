@@ -29,41 +29,7 @@ Profile: design-driven full-stack engineer serving a PhilHealth-accredited HITP.
 
 ---
 
-## 03 · Getting Started
-
-**Prerequisites:** node >= 20 · .NET 10 SDK (MIS) OR PHP >= 8.3 (Laravel)
-
-**Installation:**
-1. Clone repo
-2. Install: `npm install` (or `composer install`)
-3. Configure: `cp .env.example .env`
-4. Build: `npm run build && npm run dev`
-5. Verify: `curl http://localhost:3000/api/status`
-
----
-
-## 04 · Usage / Features
-
-<a href="https://gitcity.natrajx.in/AgustinUno?theme=gitskin"><img src="https://gitcity.natrajx.in/api/svg?u=AgustinUno&theme=gitskin" alt="AgustinUno GitCity Skyline — Gitskin theme" width="100%" /></a>
-
-**ENIC MIS — Internal Claims Validation**  
-50,000+ XML rows / Chromium binary optimization / zero-lag accuracy  
-`ASP.NET Core (.NET 10)` · `SignalR` · `Tiptap` · `Yjs` · `XML`
-
-**PUPSJ-CON — Accreditation Platform**  
-RBAC / server-side search / automated document workflows / multi-user  
-`Laravel` · `PostgreSQL` · `Tailwind CSS` · `Figma`
-
----
-
-## 05 · Roadmap
-
-**Q4 2025–Q1 2026:** ENIC claims multi-tenant refactor · expand PUPSJ-CON modules to 3 new departments  
-**2026:** public design-system docs · open-source collaboration adapter
-
----
-
-## 06 · Experience
+## 03 · Experience
 
 **Eurolink Network International Corp.** — Software Developer — 2026  
 `Internal MIS` · `NDA`
@@ -81,7 +47,7 @@ RBAC / server-side search / automated document workflows / multi-user
 
 ---
 
-## 07 · Honors & Certifications
+## 04 · Honors & Certifications
 
 **PUP San Juan, Sept 2026.** Magna Cum Laude (GPA 1.2 — PH scale) — Rank 1 Overall IT Graduate — Rank 3 Overall Campus — Junior Programmer of the Year — Best Capstone — Public Service Award.
 
@@ -95,7 +61,7 @@ RBAC / server-side search / automated document workflows / multi-user
 
 ---
 
-## 08 · Activity
+## 05 · Activity
 
 <div align="center">
   <picture>
@@ -112,7 +78,7 @@ RBAC / server-side search / automated document workflows / multi-user
 
 ---
 
-## 09 · Selected Work
+## 06 · Selected Work
 
 **ENIC Healthcare MIS Suite** — Proprietary internal MIS modules (`ASP.NET Core · SignalR · Tiptap · Yjs · XML`). Featured production system, under NDA.
 
@@ -124,7 +90,7 @@ RBAC / server-side search / automated document workflows / multi-user
 
 ---
 
-## 10 · Stack & Tooling
+## 07 · Stack & Tooling
 
 **Application Development:** TypeScript · JavaScript · React · PHP · Java · Tailwind CSS · Laravel · ASP.NET (.NET 10)
 
@@ -134,7 +100,7 @@ RBAC / server-side search / automated document workflows / multi-user
 
 ---
 
-## 11 · Contact
+## 08 · Contact
 
 **Status:** Available for hire · **LinkedIn:** [in/justine-lloyd-bautista-666432228](https://www.linkedin.com/in/justine-lloyd-bautista-666432228) · **Behance:** [lloydbautista](https://www.behance.net/lloydbautista) · **Email:** [justinelloydgbautista.pupsj@gmail.com](mailto:justinelloydgbautista.pupsj@gmail.com) · [Explore repositories](https://github.com/AgustinUno)
 
