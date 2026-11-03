@@ -1,15 +1,16 @@
----
-
 <div align="center">
 
+<img src="assets/header-banner.svg" alt="Justine Lloyd Bautista — Software Developer and UI/UX &amp; Visual Designer, Philippines" width="100%" />
+
+<br />
+
 <p>
-  <img src="https://skillicons.dev/icons?i=typescript,javascript,react,laravel,dotnet&theme=dark&perline=6" alt="TypeScript, JavaScript, React, Laravel, .NET" />
+  <img src="https://skillicons.dev/icons?i=typescript,javascript,react,laravel,dotnet&theme=dark&perline=6" alt="TypeScript, JavaScript, React, Laravel, .NET" width="360" />
 </p>
 
-# Justine Lloyd Bautista
-### Software Developer & UI/UX + Visual Designer — Philippines
-
 *Design-driven full-stack engineer shipping data-critical internal tools for a PhilHealth-accredited health IT provider. 9+ years in visual design · 50,000+ rows per run · 2,000+ healthcare units served.*
+
+</div>
 
 ---
 
@@ -76,11 +77,23 @@ Profile: design-driven full-stack engineer serving a PhilHealth-accredited HITP.
   <sub><i>Production MIS work is hosted in private repositories under NDA. Public metrics reflect open-source and academic repositories.</i></sub>
 </div>
 
+<br />
+
+<div align="center">
+  <!-- Live skyline from the hosted GitCity instance. `theme=gold` is the closest amber to
+       the Gitskin palette; switch to `theme=gitskin` once a self-hosted build is deployed. -->
+  <a href="https://gitcity.natrajx.in/AgustinUno">
+    <img src="https://gitcity.natrajx.in/api/svg?u=AgustinUno&theme=gold" alt="GitHub contributions rendered as a 3D city skyline" width="512" />
+  </a>
+  <br />
+  <sub><i>One year of contributions, built into a city — <a href="https://gitcity.natrajx.in/AgustinUno">explore it in 3D</a>.</i></sub>
+</div>
+
 ---
 
 ## 06 · Selected Work
 
-**ENIC Healthcare MIS Suite** — Proprietary internal MIS modules (`ASP.NET Core · SignalR · Tiptap · Yjs · XML`). Featured production system, under NDA.
+**ENIC Healthcare MIS Suite** — Proprietary internal MIS modules (`ASP.NET Core · SignalR · Tiptap · Yjs · XML`). Featured production system, under NDA. [How the claims engine was built →](docs/case-study-claims-xml-engine.md)
 
 **PUPSJ-CON — Accreditation Platform** — `Laravel · PostgreSQL · Tailwind CSS · Figma`. Best Capstone Awardee — PUP San Juan.
 
@@ -106,6 +119,6 @@ Profile: design-driven full-stack engineer serving a PhilHealth-accredited HITP.
 
 ---
 
-*Clean design · Red accent · Gitskin theme · Profile README — updated 2026-11-02*
+*Clean design · Red accent · Gitskin theme · Profile README — updated 2026-11-03*
 
 <!-- pushed: 2026-11-01 -->
