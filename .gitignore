@@ -1,0 +1,11 @@
+# Nested clone of rishabhbhartiya/GitCity. It carries its own .git and origin,
+# so it must never be committed here. See docs/profile-options.md.
+/GitCity/
+
+# Local scratch: render previews, downloaded wheels, generator scripts.
+/.tmp/
+
+# OS / editor noise
+.DS_Store
+Thumbs.db
+*.log
