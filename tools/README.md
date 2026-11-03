@@ -1,7 +1,7 @@
 # tools
 
-Two generators, one source of truth each. Both are deterministic: run them and the
-committed artefacts in `assets/` and `resume/` are rebuilt byte-for-byte.
+One generator. Deterministic: run it and the committed artefact in `assets/` is rebuilt
+with no diff.
 
 ## `banner_gen.mjs`
 
@@ -15,15 +15,5 @@ No dependencies. The seeded PRNG means the skyline is identical on every run; ch
 `seed` for a different city, change the palette constants at the top for a different
 identity.
 
-## `build_resume.py`
-
-Builds `resume/Justine-Lloyd-Bautista-Resume.docx` and `.pdf` from one content model,
-so the two files cannot drift apart.
-
-```bash
-pip install python-docx reportlab
-python tools/build_resume.py
-```
-
-The PDF registers Segoe UI from `C:/Windows/Fonts`; on another platform those
-`registerFont` calls fail and reportlab falls back to Helvetica.
+The resume is not generated here — see `resume/Bautista_Master_Resume.pdf` and the
+[resume notes](../docs/profile-options.md#resume).
