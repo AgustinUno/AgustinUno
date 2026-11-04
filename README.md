@@ -32,7 +32,7 @@ Profile: design-driven full-stack engineer serving a PhilHealth-accredited HITP.
 
 ## 03 · Experience
 
-**Eurolink Network International Corp.** — Software Developer — 2026  
+**Eurolink Network International Corp.** — Software Developer Intern — Feb–May 2026  
 `Internal MIS` · `NDA`
 - Shipped production internal tools for the ENIC MIS suite at one of seven PhilHealth-accredited HITPs in the Philippines, serving 2,000+ healthcare units nationwide.
 - **Claims XML Data Engine:** web-native validation processing 50,000+ rows / run; resolved Chromium memory overflow via binary-level optimization for zero-lag financial accuracy.
@@ -115,10 +115,10 @@ Profile: design-driven full-stack engineer serving a PhilHealth-accredited HITP.
 
 ## 08 · Contact
 
-**Status:** Available for hire · **LinkedIn:** [in/justine-lloyd-bautista-666432228](https://www.linkedin.com/in/justine-lloyd-bautista-666432228) · **Behance:** [lloydbautista](https://www.behance.net/lloydbautista) · **Email:** [justinelloydgbautista.pupsj@gmail.com](mailto:justinelloydgbautista.pupsj@gmail.com) · [Explore repositories](https://github.com/AgustinUno)
+**Status:** Available for hire · **Portfolio:** [jlbautista-portfolio.vercel.app](https://jlbautista-portfolio.vercel.app) · **LinkedIn:** [in/justine-lloyd-bautista-666432228](https://www.linkedin.com/in/justine-lloyd-bautista-666432228) · **Behance:** [lloydbautista](https://www.behance.net/lloydbautista) · **Email:** [justinelloydgbautista.pupsj@gmail.com](mailto:justinelloydgbautista.pupsj@gmail.com) · [Explore repositories](https://github.com/AgustinUno)
 
 ---
 
-*Clean design · Red accent · Gitskin theme · Profile README — updated 2026-11-03*
+*Clean design · Red accent · Gitskin theme · Profile README — updated 2026-11-04*
 
 <!-- pushed: 2026-11-01 -->
